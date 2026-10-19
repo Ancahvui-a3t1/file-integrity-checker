@@ -1,0 +1,11 @@
+
+# Python temporary files
+__pycache__/
+*.pyc
+*.swp
+.*.swp
+
+# Local SQLite databases
+integrity.db
+integrity_practice.db
+
